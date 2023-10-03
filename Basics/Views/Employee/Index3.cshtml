@@ -1,0 +1,18 @@
+@model List<Employee>
+
+<div class="display-3">
+    Index 3
+</div>
+<div class="lead">
+    @foreach(Employee emp in Model)
+    {
+        <hr />
+        <div class="lead my-2">
+            <h6>@emp.FullName</h6>
+            <p>@emp.Id</p>
+            <p><strong>Age: </strong>@emp.Age</p>
+            
+        </div>
+    }
+    <hr />
+</div>

@@ -1,0 +1,15 @@
+@model String[]
+
+<div>
+    <div class="display-6">
+        Index 2
+    </div>
+    <div class="lead">
+        <ul>
+            @foreach(string name in @Model)
+            {
+                <li>@name</li>
+            }
+        </ul>
+    </div>
+</div>

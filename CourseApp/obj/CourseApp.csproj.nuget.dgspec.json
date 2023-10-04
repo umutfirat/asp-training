@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj": {}
+    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj": {
+    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj",
+        "projectUniqueName": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj",
         "projectName": "CourseApp",
-        "projectPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj",
+        "projectPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\CourseApp.csproj",
         "packagesPath": "C:\\Users\\Umut FIRAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\obj\\",
+        "outputPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\CourseApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

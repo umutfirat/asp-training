@@ -5,12 +5,12 @@
 </div>
 
 
-<form>
+<form method="post" asp-action="Apply">
     <div class="row">
         <div class="col-md-12">
             <div class="form-group my-2">
-                <label>Email</label>
-                <input name="Email" class="form-control" />
+                <label asp-for="Email">E-mail</label>
+                <input asp-for="Email" class="form-control" />
             </div>
         </div>
     </div>
@@ -18,20 +18,20 @@
     <div class="row">
         <div class="col-md-6">
             <div class="form-group my-2">
-                <label>FirstName</label>
-                <input name="FirstName" class="form-control" />
+                <label asp-for="FirstName">First Name</label>
+                <input asp-for="FirstName" class="form-control" />
             </div>
         </div>
         <div class="col-md-6">
             <div class="form-group my-2">
-                <label>LastName</label>
-                <input name="LastName" class="form-control" />
+                <label asp-for="LastName">Last Name</label>
+                <input asp-for="LastName" class="form-control" />
             </div>
         </div>
     </div>    
     <div class="form-group my-2">
-        <label>Age</label>
-        <select class="form-control" name="Age">
+        <label asp-for="Age"></label>
+        <select class="form-control" asp-for="Age">
             @for(int i = 18; i <= 30; i++)
             {
                 <option value="@i">@i</option>
@@ -42,15 +42,15 @@
     <fieldset>
         <legend>Select One Course</legend>
         <p>
-            <input id="mvc" type="radio" name="SelectedCourse" value="ASP.NET Core MVC" />
+            <input id="mvc" type="radio" asp-for="SelectedCourse" value="ASP.NET Core MVC" />
             <label for="mvc">ASP.NET Core MVC</label>
         </p>
         <p>
-            <input id="api" type="radio" name="SelectedCourse" value="ASP.NET Core API" />
+            <input id="api" type="radio" asp-for="SelectedCourse" value="ASP.NET Core API" />
             <label for="api">ASP.NET Core API</label>
         </p>
         <p>
-            <input id="blazor" type="radio" name="SelectedCourse" value="Blazor" />
+            <input id="blazor" type="radio" asp-for="SelectedCourse" value="Blazor" />
             <label for="blazor">Blazor</label>
         </p>
     </fieldset>
@@ -59,6 +59,10 @@
         <button class="btn btn-primary" type="Submit">
             Apply
         </button>
+
+        <a class="btn btn-warning" asp-controller="Home" asp-action="Index">
+            Home
+        </a>
     </div>
     
 </form>

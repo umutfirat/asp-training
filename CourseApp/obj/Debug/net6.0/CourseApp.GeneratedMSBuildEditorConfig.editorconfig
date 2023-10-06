@@ -16,12 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Umut FIRAT\Desktop\ASPNET\CourseApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Candidate/Apply.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEFwcGx5LmNzaHRtbA==
+[C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Course/Apply.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFwcGx5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Candidate/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FuZGlkYXRlXEluZGV4LmNzaHRtbA==
+[C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Course/Feedback.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEZlZWRiYWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Umut FIRAT/Desktop/ASPNET/CourseApp/Views/Home/Index.cshtml]

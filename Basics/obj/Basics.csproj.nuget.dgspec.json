@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj": {}
+    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj": {
+    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj",
+        "projectUniqueName": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj",
         "projectName": "Basics",
-        "projectPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj",
+        "projectPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj",
         "packagesPath": "C:\\Users\\Umut FIRAT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\obj\\",
+        "outputPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

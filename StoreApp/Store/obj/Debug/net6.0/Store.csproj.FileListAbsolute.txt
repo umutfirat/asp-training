@@ -55,3 +55,7 @@ C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\obj\Debug\net6.0\Store.csproj.
 C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\obj\Debug\net6.0\Store.csproj.CopyComplete
 C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\Store.staticwebassets.runtime.json
 C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\libman.json
+C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\Entities.dll
+C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\Entities.pdb
+C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\Repositories.dll
+C:\Users\Umut FIRAT\Desktop\ASPNET\StoreApp\Store\bin\Debug\net6.0\Repositories.pdb

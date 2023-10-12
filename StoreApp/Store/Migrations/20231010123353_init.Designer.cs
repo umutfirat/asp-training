@@ -3,22 +3,22 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Store.Models;
+using Repositories;
 
 #nullable disable
 
 namespace Store.Migrations
 {
     [DbContext(typeof(RepositoryContext))]
-    [Migration("20231009075834_ProductSeedData")]
-    partial class ProductSeedData
+    [Migration("20231010123353_init")]
+    partial class init
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "6.0.0");
 
-            modelBuilder.Entity("Store.Models.Product", b =>
+            modelBuilder.Entity("Entities.Models.Product", b =>
                 {
                     b.Property<int>("ProductId")
                         .ValueGeneratedOnAdd()
@@ -56,7 +56,7 @@ namespace Store.Migrations
                         new
                         {
                             ProductId = 4,
-                            ProductName = "MonDeckitor",
+                            ProductName = "Monitor",
                             ProductPrice = 7000m
                         },
                         new

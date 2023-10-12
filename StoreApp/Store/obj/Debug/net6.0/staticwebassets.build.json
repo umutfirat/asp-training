@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5f6aDs3Qjx92GSAuskzo7sDlh2pbLAxc1/+IDDp3MQc=",
+  "Hash": "Fq2DT9YyUZIVQBjKWK54L+pZrOMXqwOsxMLE6HnJwpA=",
   "Source": "Store",
   "BasePath": "_content/Store",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\Error.html"
+    },
+    {
+      "Identity": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Store\\wwwroot\\images\\default.jpg",
+      "SourceId": "Store",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Store\\wwwroot\\",
+      "BasePath": "_content/Store",
+      "RelativePath": "images/default.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default.jpg"
     },
     {
       "Identity": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Store\\wwwroot\\js\\main.js",

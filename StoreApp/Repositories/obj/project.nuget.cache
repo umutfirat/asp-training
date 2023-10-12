@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JZpQAIaZHWxlGnR7Xd0k67JK3Nu7TdQMhl0ah1SN6zzi7GP3lWRoBp0czjwWQ4pOFVsPSw5fN9tqUV5JQlnNBA==",
+  "dgSpecHash": "i90A8PD1IDw/sbK+nvpolRpdqcoaRK6yw+WPT3ihR5ZjvCqTG4NClagkZEtwfIR/+3MOd2sIbFnsqDmcObAvEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Repositories\\Repositories.csproj",
   "expectedPackageFiles": [
@@ -31,7 +31,10 @@
     "C:\\Users\\Umut FIRAT\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\Umut FIRAT\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\Umut FIRAT\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vHmlLAPTMR2qNbCr9VoRwaeLV7UDX9lm/3gDQmpl4TPONFeKQEfqvW24kLxDFqbtGPnquGzcTMSqOGpttmDPiA==",
+  "dgSpecHash": "4gBWj6PwgnQShV1ECcXn6/+kKR7w/h5euztVploys1WRuvCYZt0Z48OtifEaZAywwR3Y//erkwlmOqmcPVMllQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\Basics\\Basics.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

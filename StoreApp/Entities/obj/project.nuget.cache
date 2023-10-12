@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "ikiv3/4Gd4xwTSKh+M1i5Mh3nb4IrVsQ3Krf0SY6t8xK1dO30/YJzaPs5S8MyCALY1iyh3+HrBHWJxEq3IYbzQ==",
+  "dgSpecHash": "F3b/yuIRTjtG3N2c+9tA7QHcxLumHPFihNWWn6IY17oQFEGUMkxKnzQqA028QtJl5gW0UdU54NPi3Dd9EhJNrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Umut FIRAT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

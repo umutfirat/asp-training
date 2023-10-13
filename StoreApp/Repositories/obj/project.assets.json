@@ -1193,8 +1193,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {
-              "projectPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj"
+            "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj"
             }
           }
         }

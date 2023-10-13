@@ -7,11 +7,9 @@ namespace Repositories
     {
         public ProductRepository(RepositoryContext context) : base(context)
         {
+            
         }
 
-        public IQueryable<Product> GetAllProducts(bool trackChanges)
-        {
-            throw new NotImplementedException();
-        }
+        public IQueryable<Product> GetAllProducts(bool trackChanges) => FindAll(trackChanges);
     }
 }

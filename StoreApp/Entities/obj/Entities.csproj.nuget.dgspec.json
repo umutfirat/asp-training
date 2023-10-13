@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {}
+    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {
+    "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Umut FIRAT\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Umut FIRAT\\Desktop\\ASPNET\\StoreApp\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Umut FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config"
